@@ -1,0 +1,9 @@
+Simple p5js project with typescript
+
+draws pointA and pointB as specified in points.json. draws a line segment
+between the points. draws a point at the center of that line segment shows the
+distance between pointA and pointB right above the centerPoint. 
+
+
+$ yarn 
+$ yarn start

@@ -25,5 +25,8 @@
   },
   "dependencies": {
     "p5": "0.7.3"
+  },
+  "resolutions": {
+    "serialize-javascript": "^2.1.1"
   }
 }

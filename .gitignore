@@ -1,4 +1,1 @@
-node_modules/
-.awcache
-.vscode/
-dist
+.DS_Store
